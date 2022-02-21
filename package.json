@@ -1,0 +1,15 @@
+{
+    "name": "Fabrikam",
+    "version": "1.0.0",
+    "description": "this file is created for exam purpose on 21-02-2022",
+    "main": "server.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node server.js"
+    },
+    "author": "Yoges Chauriwar",
+    "license": "ISC",
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
